@@ -63,12 +63,12 @@ git diff
 
 **Agrega los archivos modificados:**
 
-git add nombre-del-archivo   # Para un archivo específico
-git add .                    # Para todos los cambios
+ git add nombre-del-archivo   # Para un archivo específico
+ git add .                    # Para todos los cambios
 
 **Haz un commit descriptivo:**
 
-git commit -m "Descripción clara de los cambios"
+ git commit -m "Descripción clara de los cambios"
 
 ## 🔄 **Sincroniza tu fork con el repositorio original**
 
@@ -76,46 +76,46 @@ git commit -m "Descripción clara de los cambios"
 
 **Para mantener tu fork actualizado con los cambios más recientes del repositorio original:**
 
--Ve a la página principal de tu repositorio forked.
--Haz clic en "Sync fork" para sincronizar tu fork con el repositorio original.
+- Ve a la página principal de tu repositorio forked.
+- Haz clic en "Sync fork" para sincronizar tu fork con el repositorio original.
 
 **En tu ordenador personal**
 
 **Configura el repositorio original como upstream:**
 
-git remote add upstream https://github.com/bienvenidoconquerx/proyecto1.git
-git remote -v
+ git remote add upstream https://github.com/bienvenidoconquerx/proyecto1.git
+ git remote -v
 
 
 **Antes de subir tus cambios, sincroniza tu rama desde upstream:**
 
-git fetch upstream
+ git fetch upstream
 
 ## 📤 **Crea un pull request**
 
 **En GitHub**
 
 **Si tus cambios están listos, ve a la página principal de tu repositorio forked y haz clic en:**
-"Contribute" → "Open pull request"
+ "Contribute" → "Open pull request"
 
 **En tu ordenador personal**
 
-git push -u origin main
+ git push -u origin main
 
 
 ## ✅ **Tus cambios en local ya se han subido a GitHub.**
 
 **Ahora podemos hacer la pull request en GitHub haciendo clic en:**
 
-"Contribute" → "Open pull request"
+ "Contribute" → "Open pull request"
 
 ## 📝 **Describe tu pull request**
 
 **En GitHub**
 
--Proporciona una descripción detallada de los cambios que has realizado.
--Incluye cualquier información relevante que pueda ayudar a entender mejor tus contribuciones.
--Haz clic en "Create pull request" para enviar.
+- Proporciona una descripción detallada de los cambios que has realizado.
+- Incluye cualquier información relevante que pueda ayudar a entender mejor tus contribuciones.
+- Haz clic en "Create pull request" para enviar.
 
 ## **🎥 Flujo de contribución (GIF)**
 
