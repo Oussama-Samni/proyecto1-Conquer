@@ -119,7 +119,7 @@ git diff
 
 ## **🎥 Flujo de contribución (GIF)**
 
-![Flujo de contribución](https://ruta-del-gif.com/imagen.gif)
+![Flujo de contribución](assets/proyecto1_contribution_flow_dark_short.gif) 
 
 ## 🧠 **Espera la revisión**
 
